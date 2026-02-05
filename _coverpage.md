@@ -1,6 +1,7 @@
 <!-- _coverpage.md -->
 
 <img src="media/avatar.png" width="100px"/>
+
 # Python for 365学习使用指南 
 
 # 呆先生 <small>OFCOUZ</small>
