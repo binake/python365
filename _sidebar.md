@@ -2,5 +2,4 @@
   * [第一个月计划](/1month.md)
   * [第二个月计划](/2month.md)
 * 项目计划
-  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
 
